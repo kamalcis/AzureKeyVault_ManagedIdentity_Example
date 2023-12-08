@@ -15,7 +15,7 @@
 # Steps to deply the console app as Web Jobs
     
 
-    - Deploy the Console app as web jobs
+    - Deploy the Console app as web jobs 
     - Configure the access policy in KeyVault with the Identity produced at ConsoleApp deployment
     - Now if you run the application the KeyVault value should be displayed. 
     - The Output screen is given in the Output folder to demonstrate how the Webjobs shows the keyvault value.
